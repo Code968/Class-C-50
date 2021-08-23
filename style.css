@@ -1,0 +1,17 @@
+
+            h1 {
+                color: brown;
+            }
+
+            * {
+                border: solid;
+            }
+            .second{
+                background-color:aqua;
+            }
+            .first{
+                background-color:blue;
+                display:flex;
+                justify-content:flex-start
+            }
+        
